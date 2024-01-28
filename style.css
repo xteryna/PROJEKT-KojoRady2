@@ -49,7 +49,7 @@ a {
     background-color: #f4d0d0;
     width: 100%;
 
-    padding-block: 1em;
+    padding-block: 0.5em;
     display: grid;
     grid-template-columns: repeat(5, auto);
     
@@ -76,7 +76,7 @@ a {
     
     
     align-content: center;
-    min-height: 100dvh;
+    /* min-height: 100dvh; */
     padding: 10vh 1.5vw 3vh;
     border-bottom: 1px solid #e4b3b3;
 }
